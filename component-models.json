@@ -238,6 +238,13 @@
     "name": "teststr",
     "label": "Testing Field",
     "value": "Demo Test Field"
+     },
+     {
+    "component": "text",
+    "valueType": "string",
+    "name": "teststr1",
+    "label": "Testing Field1",
+    "value": "Demo Test Field1"
      }
    ]
   }

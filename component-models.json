@@ -231,6 +231,13 @@
        "name": "author",
        "label": "Author",
        "value": ""
+     },
+     {
+    "component": "text",
+    "valueType": "string",
+    "name": "teststr",
+    "label": "Testing Field",
+    "value": "Demo Test Field"
      }
    ]
   }
